@@ -1,0 +1,579 @@
+[
+    {
+        "id": 1746992987,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ],
+        "total": 150000,
+        "tanggal": "2025-05-11 21:49:47"
+    },
+    {
+        "id": 1746993024,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "5"
+            }
+        ],
+        "total": 750000,
+        "tanggal": "2025-05-11 21:50:24"
+    },
+    {
+        "id": 1746993224,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "5"
+            }
+        ],
+        "total": 750000,
+        "tanggal": "2025-05-11 21:53:44"
+    },
+    {
+        "id": 1746993266,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "5"
+            }
+        ],
+        "total": 750000,
+        "tanggal": "2025-05-11 21:54:26"
+    },
+    {
+        "id": 1746993545,
+        "items": [
+            {
+                "id": "7",
+                "name": "Red Velvet Cake",
+                "price": "130000",
+                "quantity": "5"
+            }
+        ],
+        "total": 650000,
+        "tanggal": "2025-05-11 21:59:05"
+    },
+    {
+        "id": 1746993760,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "5"
+            },
+            {
+                "id": "3",
+                "name": "Slice Cake",
+                "price": "50000",
+                "quantity": "50"
+            }
+        ],
+        "total": 3250000,
+        "tanggal": "2025-05-11 22:02:40"
+    },
+    {
+        "id": 1746994116,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "4"
+            }
+        ],
+        "total": 600000,
+        "tanggal": "2025-05-11 22:08:36"
+    },
+    {
+        "id": 1746994185,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "4"
+            }
+        ],
+        "total": 600000,
+        "tanggal": "2025-05-11 22:09:45"
+    },
+    {
+        "id": 1746994378,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "6"
+            }
+        ],
+        "total": 900000,
+        "tanggal": "2025-05-11 22:12:58"
+    },
+    {
+        "id": 1746994659,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "6"
+            }
+        ],
+        "total": 900000,
+        "tanggal": "2025-05-11 22:17:39"
+    },
+    {
+        "id": 1746994715,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ],
+        "total": 150000,
+        "tanggal": "2025-05-11 22:18:35"
+    },
+    {
+        "id": 1746995466,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": 8
+            }
+        ],
+        "total": 1200000,
+        "tanggal": "2025-05-11 22:31:06"
+    },
+    {
+        "id": 1746995724,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": 3
+            }
+        ],
+        "total": 450000,
+        "tanggal": "2025-05-11 22:35:24"
+    },
+    {
+        "id": 1746995743,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "4"
+            }
+        ],
+        "total": 600000,
+        "tanggal": "2025-05-11 22:35:43"
+    },
+    {
+        "id": 1746995756,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "7"
+            }
+        ],
+        "total": 1050000,
+        "tanggal": "2025-05-11 22:35:56"
+    },
+    {
+        "id": 1746995781,
+        "items": [
+            {
+                "id": "2",
+                "name": "Birthday Cake",
+                "price": "200000",
+                "quantity": "6"
+            }
+        ],
+        "total": 1200000,
+        "tanggal": "2025-05-11 22:36:21"
+    },
+    {
+        "id": 1746996080,
+        "items": [
+            {
+                "id": "2",
+                "name": "Birthday Cake",
+                "price": "200000",
+                "quantity": "5"
+            }
+        ],
+        "total": 1000000,
+        "tanggal": "2025-05-11 22:41:20"
+    },
+    {
+        "id": 1746996096,
+        "items": [
+            {
+                "id": "7",
+                "name": "Red Velvet Cake",
+                "price": "130000",
+                "quantity": "1"
+            }
+        ],
+        "total": 130000,
+        "tanggal": "2025-05-11 22:41:36"
+    },
+    {
+        "id": 1746996148,
+        "items": [
+            {
+                "id": "6",
+                "name": "Blueberry Cake",
+                "price": "170000",
+                "quantity": "3"
+            }
+        ],
+        "total": 510000,
+        "tanggal": "2025-05-11 22:42:28"
+    },
+    {
+        "id": 1747020817,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "5"
+            }
+        ],
+        "total": 750000,
+        "tanggal": "2025-05-12 05:33:37"
+    },
+    {
+        "id": 1747020832,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ],
+        "total": 150000,
+        "tanggal": "2025-05-12 05:33:52"
+    },
+    {
+        "id": 1747021098,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "4"
+            }
+        ],
+        "total": 600000,
+        "tanggal": "2025-05-12 05:38:18"
+    },
+    {
+        "id": 1747021589,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ],
+        "total": 150000,
+        "tanggal": "2025-05-12 05:46:29"
+    },
+    {
+        "id": 1747021614,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ],
+        "total": 150000,
+        "tanggal": "2025-05-12 05:46:54"
+    },
+    {
+        "id": 1747021707,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ],
+        "total": 150000,
+        "tanggal": "2025-05-12 05:48:27"
+    },
+    {
+        "id": 1747022248,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "7"
+            }
+        ],
+        "total": 1050000,
+        "tanggal": "2025-05-12 05:57:28"
+    },
+    {
+        "id": 1747022282,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ],
+        "total": 150000,
+        "tanggal": "2025-05-12 05:58:02"
+    },
+    {
+        "id": 1747022288,
+        "items": [
+            {
+                "id": "2",
+                "name": "Birthday Cake",
+                "price": "200000",
+                "quantity": "1"
+            }
+        ],
+        "total": 200000,
+        "tanggal": "2025-05-12 05:58:08",
+        "status": "Selesai"
+    },
+    {
+        "id": "1747347086831",
+        "tanggal": "2025-05-16 05:11:26",
+        "status": "Dikirim",
+        "total": 850000,
+        "items": [
+            {
+                "id": "6",
+                "name": "Blueberry Cake",
+                "price": "170000",
+                "quantity": "5"
+            }
+        ]
+    },
+    {
+        "id": "1747353204677",
+        "tanggal": "2025-05-16 06:53:24",
+        "status": "Ditolak",
+        "total": 640000,
+        "items": [
+            {
+                "name": "Produk B",
+                "price": 20000,
+                "quantity": 1
+            },
+            {
+                "name": "Produk A",
+                "price": 20000,
+                "quantity": 1
+            },
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": "1747353236522",
+        "tanggal": "2025-05-16 06:53:56",
+        "status": "Menunggu Konfirmasi",
+        "total": 200000,
+        "items": [
+            {
+                "id": "2",
+                "name": "Birthday Cake",
+                "price": "200000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747353249419",
+        "tanggal": "2025-05-16 06:54:09",
+        "status": "Menunggu Konfirmasi",
+        "total": 170000,
+        "items": [
+            {
+                "id": "6",
+                "name": "Blueberry Cake",
+                "price": "170000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747353904595",
+        "tanggal": "2025-05-16 07:05:04",
+        "status": "Menunggu Konfirmasi",
+        "total": 1050000,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "7"
+            }
+        ]
+    },
+    {
+        "id": "1747354208849",
+        "tanggal": "2025-05-16 07:10:08",
+        "status": "Menunggu Konfirmasi",
+        "total": 50000,
+        "items": [
+            {
+                "id": "3",
+                "name": "Slice Cake",
+                "price": "50000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747354522992",
+        "tanggal": "2025-05-16 07:15:22",
+        "status": "Menunggu Konfirmasi",
+        "total": 150000,
+        "items": [
+            {
+                "id": "8",
+                "name": "Roll Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747354618915",
+        "tanggal": "2025-05-16 07:16:58",
+        "status": "Menunggu Konfirmasi",
+        "total": 170000,
+        "items": [
+            {
+                "id": "6",
+                "name": "Blueberry Cake",
+                "price": "170000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747354677192",
+        "tanggal": "2025-05-16 07:17:57",
+        "status": "Menunggu Konfirmasi",
+        "total": 170000,
+        "items": [
+            {
+                "id": "5",
+                "name": "Bika Ambon",
+                "price": "170000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747356824592",
+        "tanggal": "2025-05-16 07:53:44",
+        "status": "Segera dikirim",
+        "total": 150000,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "150000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747358399231",
+        "tanggal": "2025-05-16 08:19:59",
+        "status": "Segera dikirim",
+        "total": 750000,
+        "items": [
+            {
+                "id": "4",
+                "name": "Choco Cake",
+                "price": "150000",
+                "quantity": 5
+            }
+        ]
+    },
+    {
+        "id": "1747359132789",
+        "tanggal": "2025-05-16 08:32:12",
+        "status": "Menunggu Konfirmasi",
+        "total": 70000,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "70000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747361026986",
+        "tanggal": "2025-05-16 09:03:46",
+        "status": "Menunggu Konfirmasi",
+        "total": 50000,
+        "items": [
+            {
+                "id": "3",
+                "name": "Slice Cake",
+                "price": "50000",
+                "quantity": "1"
+            }
+        ]
+    },
+    {
+        "id": "1747362564179",
+        "tanggal": "2025-05-16 09:29:24",
+        "status": "Menunggu Konfirmasi",
+        "total": 70000,
+        "items": [
+            {
+                "id": "1",
+                "name": "Fruity Cake",
+                "price": "70000",
+                "quantity": "1"
+            }
+        ]
+    }
+]

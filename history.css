@@ -1,0 +1,96 @@
+/* style.css */
+
+/* Background dan warna teks halaman */
+body {
+  background-color: #f9f2f0; /* very soft cream/pink */
+  color: #6b4c3b; /* warm brown */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px 0;
+}
+
+/* Container utama */
+.container {
+  background-color: #f3e6e1; /* soft pinkish beige */
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px 40px;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(139, 69, 19, 0.2); /* brown shadow */
+}
+
+/* Judul */
+h2 {
+  color: #a66a4a; /* medium warm brown */
+  text-align: center;
+  margin-bottom: 50px; /* jarak ke transaksi */
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 2.5rem; /* ukuran besar supaya jelas */
+}
+
+/* Judul transaksi */
+h5 {
+  color: #8b5e3c; /* soft dark brown */
+  margin-top: 45px; /* jarak ke judul besar */
+  margin-bottom: 8px; /* jarak ke status */
+  font-weight: 600;
+  font-size: 1.3rem; /* ukuran cukup jelas */
+}
+
+/* Status pesanan */
+p strong {
+  color: #7a4e35; /* darker warm brown */
+}
+
+/* Tabel */
+table {
+  background-color: #fef6f4; /* very soft pinkish white */
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  box-shadow: 0 3px 8px rgba(166, 106, 74, 0.15);
+}
+
+table thead {
+  background-color: #d8b2a1; /* pastel dusty pink */
+  color: #7a4e35;
+  font-weight: 600;
+}
+
+table th, table td {
+  padding: 12px 18px;
+  text-align: center;
+  border-bottom: 1px solid #f1d4ca;
+}
+
+table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Total transaksi */
+strong {
+  display: block;
+  margin-top: 15px;
+  font-size: 1.2rem;
+  color: #9c6f57; /* medium soft brown */
+}
+
+/* Garis pemisah */
+hr {
+  border: none;
+  height: 1px;
+  background: #d8b2a1;
+  margin: 35px 0;
+}
+
+/* Pesan jika belum ada riwayat */
+p {
+  font-size: 1.1rem;
+  color: #a66a4a;
+  text-align: center;
+  margin-top: 40px;
+  font-style: italic;
+}

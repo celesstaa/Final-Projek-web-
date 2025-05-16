@@ -1,0 +1,103 @@
+/* Container utama */
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fefaf6;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(150, 110, 60, 0.15);
+}
+
+/* Judul halaman */
+h2 {
+  color: #8b6d4b; /* coklat lembut */
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Table styling */
+table.table {
+  background-color: #faf6f0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 3px 10px rgba(139, 109, 75, 0.1);
+}
+
+table.table thead tr {
+  background-color: #c4b69b; /* coklat soft */
+  color: #4b3b2b;
+  font-weight: 600;
+}
+
+table.table th,
+table.table td {
+  vertical-align: middle;
+  text-align: center;
+  padding: 12px 15px;
+  border-bottom: 1px solid #ddd6c8;
+  font-size: 1rem;
+  color: #6a5840;
+}
+
+table.table tbody tr:hover {
+  background-color: #eee9dc;
+  transition: background-color 0.3s ease;
+}
+
+/* Total Belanja */
+h4 {
+  color: #8b6d4b;
+  font-weight: 700;
+  margin-top: 20px;
+  text-align: right;
+}
+
+/* Tombol Checkout */
+a.btn-success {
+  background-color: #a89a7f; /* coklat soft */
+  border-color: #a89a7f;
+  font-weight: 600;
+  padding: 10px 25px;
+  border-radius: 8px;
+  display: inline-block;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+  color: #4b3b2b;
+}
+
+a.btn-success:hover {
+  background-color: #8b7b5c;
+  border-color: #8b7b5c;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Pesan keranjang kosong */
+p {
+  font-size: 1.1rem;
+  color: #8b6d4b;
+  text-align: center;
+  margin-top: 40px;
+  font-weight: 600;
+}
+
+/* Responsive untuk layar kecil */
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+  table.table th,
+  table.table td {
+    font-size: 0.85rem;
+    padding: 8px 10px;
+  }
+  h4 {
+    font-size: 1rem;
+  }
+  a.btn-success {
+    width: 100%;
+    padding: 12px 0;
+  }
+}

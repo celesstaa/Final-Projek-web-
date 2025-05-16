@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="favicon.ico" type="image/png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Syifa Naura Milla Celesta</title>
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav id="navbar">
+    <div class="marquee">
+      <marquee>HI, WELCOME TO MY PROFILE PAGE!</marquee>
+  </div>
+  </nav>
+
+  <!-- Profile Section -->
+  <header id="profile">
+    <img 
+      src="https://media.licdn.com/dms/image/v2/D4D03AQFGQBRv4ph3Nw/profile-displayphoto-shrink_800_800/B4DZPIM8eZGgAg-/0/1734230657752?e=1750291200&v=beta&t=vv-g5SvcerzRpZ2f22cIZLD5IfuMN9jP7dU6ffOLP3k" 
+      alt="Profile Picture of Syifa Naura Milla Celesta" 
+      loading="lazy">
+    <h1>Syifa Naura Milla Celesta</h1>
+    <p>Information Systems Student</p>
+    <div class="contact-buttons">
+      <a href="mailto:syifanauramillacelestaaa@gmail.com" class="btn">Email</a>
+     <a href="https://wa.link/hvicj2" class="btn" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+      <a href="https://www.linkedin.com/in/syifa-naura-milla-celesta/" class="btn" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </div>
+  </header>
+
+  <!-- Content Section -->
+  <main class="content">
+    <!-- About Section -->
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I am an Information Systems student at the Faculty of Computer Science, University of Sriwijaya. I chose this faculty because of my strong passion for technology, especially in front-end development. I find joy in designing and building responsive, user-friendly interfaces that bring ideas to life. With a solid foundation in HTML, CSS, and JavaScript, I am eager to keep learning and growing in this field that truly excites me.
+
+
+      </p>
+    </section>
+
+    <!-- Education & Skills Section -->
+    <section id="edu-skills">
+      <div class="education">
+        <h2>Education</h2>
+        <ul>
+          <li>MTsN 1 Padang</li>
+          <li>SMAN 7 Padang</li>
+          <li>Sriwijaya University</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2 class="title">Personal Information</h2>
+        <table class="info-table">
+          <tr>
+            <td class="label">Name:</td>
+            <td class="value">Syifa Naura Milla Celesta</td>
+          </tr>
+          <tr>
+            <td class="label">Age:</td>
+            <td class="value">20 years</td>
+          </tr>
+          <tr>
+            <td class="label">Nationality:</td>
+            <td class="value">Indonesia</td>
+          </tr>
+          <tr>
+            <td class="label">Gender:</td>
+            <td class="value">Woman</td>
+          </tr>
+          <tr>
+            <td class="label">Address:</td>
+            <td class="value">Padang</td>
+          </tr>
+        </table>
+      </div>
+      
+    </section>
+    <!-- Projects Section -->
+    <section id="projects">
+      <h2>Projects</h2>
+      <article class="project-item">
+        <h3>Development of a Mobile Application for Transportation Booking</h3>
+        <p>
+          Developed Jekwave, a transportation booking app designed for ease and safety. The project included requirement engineering, analysis, design, and implementation.
+        </p>
+      </article>
+
+      <article class="project-item">
+        <h3>Network Performance Analysis of "Net Unsri"</h3>
+        <p>
+          Analyzed Wi-Fi network speed between the Faculty of Computer Science and the library using Wireshark. Created a poster and presented findings in English.
+        </p>
+      </article>
+
+      <article class="project-item">
+        <h3>Data Analysis on OSN Dataset</h3>
+        <p>
+          Used K-Nearest Neighbors and K-Means algorithms to analyze and classify data for an Artificial Intelligence course project.
+        </p>
+      </article>
+
+      <article class="project-item">
+        <h3>Personal Projects</h3>
+        <p>
+          Built responsive websites, interactive user interfaces, and implemented database connectivity for dynamic content in IT coursework.
+        </p>
+      </article>
+    </section>
+  </main>
+  <!-- Logout Button Section -->
+<footer style="text-align:right; margin:0px 0;">
+  <button onclick="logout()" class="btn">Log Out</button>
+</footer>
+
+  <script>
+    function logout() {
+      alert("You have been logged out.");
+      // Redirect ke halaman login/utama
+      window.location.href = "website.php"; // ganti sesuai kebutuhanmu
+    }
+  </script>
+</body>
+</html>

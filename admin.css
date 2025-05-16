@@ -1,0 +1,109 @@
+/* style untuk container utama */
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f8f6;
+  border-radius: 10px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+/* Judul halaman */
+h2 {
+  color: #5a422a; /* coklat tua */
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 700;
+}
+
+/* styling kartu pesanan */
+.card {
+  border: 1px solid #d6c7b3;
+  border-radius: 12px;
+  background-color: #fffaf0;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(166, 123, 91, 0.3);
+}
+
+/* Header kartu */
+.card-header {
+  background-color: #d6c7b3;
+  color: #4b3621;
+  font-weight: 600;
+  font-size: 1rem;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+/* List item produk */
+.list-group-item {
+  background-color: #fff6e6;
+  border: none;
+  border-bottom: 1px solid #d6c7b3;
+  color: #5a422a;
+  font-weight: 500;
+}
+
+/* Form ubah status */
+form {
+  margin-top: 15px;
+}
+
+/* Select box */
+form select.form-select {
+  border: 2px solid #a67b5b;
+  border-radius: 8px;
+  padding: 6px 10px;
+  color: #5a422a;
+  font-weight: 600;
+  transition: border-color 0.3s ease;
+}
+
+form select.form-select:focus {
+  border-color: #6b4c2a;
+  outline: none;
+  box-shadow: 0 0 6px rgba(107, 76, 42, 0.6);
+}
+
+/* Tombol ubah status */
+form button.btn-primary {
+  background-color: #a67b5b;
+  border-color: #a67b5b;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+form button.btn-primary:hover {
+  background-color: #6b4c2a;
+  border-color: #6b4c2a;
+  box-shadow: 0 4px 12px rgba(107, 76, 42, 0.6);
+  color: #fff;
+}
+
+/* Responsive agar tetap bagus di layar kecil */
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+  .card-header, .list-group-item {
+    font-size: 0.9rem;
+  }
+  form select.form-select {
+    width: 100%;
+    margin-bottom: 8px;
+  }
+  form button.btn-primary {
+    width: 100%;
+  }
+  form.d-flex {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
